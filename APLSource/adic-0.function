@@ -1,5 +1,7 @@
  adic←{⎕IO←0         ⍝ Bijective base-⍺ numeration.
-
+  ⍝ Change 1
+  ⍝ Change 2
+  ⍝ Change 3
      b←⍬⍴⍴a←,⍺       ⍝ base and alphabet
 
      1=⍴⍴⍵:b⊥1+a⍳⍵   ⍝ vector: decode digs → number
