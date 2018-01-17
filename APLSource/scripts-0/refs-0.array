@@ -1,0 +1,1 @@
+'⍝ Vector of sub-space references:⍞000D⍞000D    {}''x.x'' ''x.y'' ''x.z''⎕ns¨⊂''''      ⍝ make some spaces.⍞000D    x.(x y z).(x y z)←⊂x.(x y z)    ⍝ make some cycles.⍞000D    ⍞000D    x x.x x.y x.z≡refs x⍞000D1' 

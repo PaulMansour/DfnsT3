@@ -1,0 +1,1 @@
+'⍝ Ambivalize traditional functions:⍞000D⍞000D    +⎕fx,⊂''l foo r''⍞000Dfoo⍞000D⍞000D    ↑refmt ⎕nr''foo''⍞000Dl foo r⍞000D    ambiv''foo''⍞000D foo ⍞000D⍞000D    ↑refmt ⎕nr''foo''⍞000D{l}foo r' 

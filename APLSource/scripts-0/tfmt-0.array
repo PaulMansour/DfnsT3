@@ -1,0 +1,1 @@
+'⍝ Char matrix from tree:⍞000D⍞000D      tfmt''tea''⍞000Dtea⍞000D⍞000D      tfmt''hot'' ''tea'' ''coffee''⍞000Dhot       ⍞000D·   tea   ⍞000D·   coffee⍞000D⍞000D      tfmt''drink''(''hot'' ''tea'' ''coffee'')(''cold'' ''milk'' ''beer'')⍞000Ddrink         ⍞000D·   hot       ⍞000D·   ·   tea   ⍞000D·   ·   coffee⍞000D·   cold      ⍞000D·   ·   milk  ⍞000D·   ·   beer  ' 

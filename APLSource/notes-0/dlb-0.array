@@ -1,0 +1,1 @@
+'rslt ← {blank} ##.dlb argt                  ⍝ Drop Leading Blanks.⍞000D⍞000DLeading  blanks  are dropped from the character vector argument. If the argument⍞000Dis of higher rank, blank "columns" are dropped.⍞000D⍞000DExamples, See: Blank_removal⍞000D⍞000DSee also: dab deb dmb dtb dxb⍞000D⍞000DIndex:blanks|compression' 

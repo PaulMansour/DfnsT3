@@ -1,0 +1,1 @@
+'⍝ Extract refs vector from array ⍵.⍞000D⍞000D      _←''xy''⎕ns¨⊂''''             ⍝ two spaces.⍞000D⍞000D      aa←y((1 2)x)y             ⍝ nested array containing refs.⍞000D⍞000D      y x≡xrefs aa              ⍝ extracted refs.⍞000D1' 

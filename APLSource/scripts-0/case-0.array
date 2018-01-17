@@ -1,0 +1,1 @@
+'⍝ Select operator:⍞000D⍞000D      1 0 0 0 + case - case × case ÷ 10      ⍝ +10⍞000D10⍞000D      0 1 0 0 + case - case × case ÷ 10      ⍝ -10⍞000D¯10⍞000D      0 0 1 0 + case - case × case ÷ 10      ⍝ ×10⍞000D1⍞000D      0 0 0 1 + case - case × case ÷ 10      ⍝ ÷10⍞000D0.1⍞000D      0 0 0 0 + case - case × case ÷ 10      ⍝  10 (no case selected).⍞000D10' 

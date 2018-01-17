@@ -1,0 +1,1 @@
+'⍝ Refs path from root to ⍵:⍞000D⍞000D    0⍴''a.b.c'' ⎕ns''''⍞000D⍞000D    (refpath a.b.c) ≡ (refpath ⎕this), refs a⍞000D1⍞000D    (,¨# ⎕se) ≡ refpath¨ # ⎕se      ⍝ refpath of root returns 1-vector.⍞000D1' 

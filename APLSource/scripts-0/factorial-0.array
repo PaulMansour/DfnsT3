@@ -1,0 +1,1 @@
+'⍝ Tail recursive factorial:⍞000D⍞000D      ⎕io←1⍞000D⍞000D      factorial¨⍳10⍞000D1 2 6 24 120 720 5040 40320 362880 3628800' 

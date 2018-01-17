@@ -1,0 +1,1 @@
+'⍝ Function/operator attributes:⍞000D⍞000D    ''n ⍋d i r×c ∇ ⍝'' attrib ''attrib'' ''else'' ''roman''⍞000Delse   1998-03-05 Dyadic  4×45 ⍴←{⍺}(⍺⍺∇∇⍵⍵)⍵ ⍝ Condition f else g ...       ⍞000Dattrib 2002-10-31 Dyadic 56×82 ⍴←{⍺}∇⍵        ⍝ Function/operator attributes.⍞000Droman  2003-06-20 Dyalog 14×94 ⍴←{⍺}(⍺⍺∇∇)⍵   ⍝ Roman numeral arithmetic.    ' 

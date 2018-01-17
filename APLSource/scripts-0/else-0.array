@@ -1,0 +1,1 @@
+'⍝ Condition f else g:⍞000D⍞000D    0 ⌈ else ⌊ 2.5⍞000D2⍞000D    1 ⌈ else ⌊ 2.5⍞000D3⍞000D    updn←⌈else⌊⍞000D    ⍞000D    0 1 0 1 0 updn¨2.5⍞000D2 3 2 3 2' 

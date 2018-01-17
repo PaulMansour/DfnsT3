@@ -1,0 +1,1 @@
+'⍝ Lines containing string(s) ⍵:⍞000D⍞000D    20↓,#.scripts find ''What is being found here'',''?''     ⍝ simple case.⍞000DWhat is being found here? ⍞000D⍞000D    20↓,#.scripts find ''And what''{⍺ ⍵}'' here'',''?''         ⍝ nested case.⍞000DAnd what here? ⍞000D' 

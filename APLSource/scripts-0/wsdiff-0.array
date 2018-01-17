@@ -1,0 +1,1 @@
+'⍝ Workspace differences:⍞000D⍞000D    wsdiff ⎕wsid ⎕wsid              ⍝ compare saved versions of this WS.⍞000D⍞000D    wsdiff↓0 1⌽'' '',↑2/⊂⎕wsid        ⍝ VMJ: allow outer blanks in file names.⍞000D' 

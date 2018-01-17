@@ -1,0 +1,1 @@
+'num ← {num←2} ##.root num                   ⍝ ⍺''th root.⍞000D⍞000DAn illustration of the default left argument construct.⍞000D⍞000DExamples:⍞000D⍞000D      root 64       ⍝ square root.⍞000D8⍞000D      3 root 64     ⍝ cube root.⍞000D4⍞000D⍞000DIndex:default left argument|⍺th root' 

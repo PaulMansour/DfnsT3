@@ -1,0 +1,1 @@
+'cvec ← ##.squeeze cvec                      ⍝ Compress multiple blanks.⍞000D⍞000DMultiple blank characters in [cvec] are replaced with a single blank.⍞000D⍞000DExamples see: →Line_vectors←⍞000D⍞000D      squeeze ''   oranges    and     lemons''⍞000D oranges and lemons⍞000D⍞000DSee also: justify wrap unwrap dmb Line_vectors⍞000D⍞000DIndex:compression|line vector' 

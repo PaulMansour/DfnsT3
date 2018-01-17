@@ -1,0 +1,1 @@
+'⍝ Reference to ancestor space.⍞000D⍞000D    ⎕this ≡ up 0            ⍝ here is here⍞000D1⍞000D    #≡up 256                ⍝ up to top.⍞000D1⍞000D    ##≡up 1                 ⍝ parent.⍞000D1⍞000D    ##.##≡## up 1           ⍝ grandparent.⍞000D1⍞000D    0⍴''a.b.c.d.e''⎕ns''''      ⍝ 5-deep space.⍞000D⍞000D    a.b.c≡a.b.c.d.e up 2    ⍝ e''s grandparent.⍞000D1' 

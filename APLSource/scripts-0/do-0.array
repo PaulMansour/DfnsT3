@@ -1,0 +1,1 @@
+'⍝ Non-result-returning "function".⍞000D⍞000D    dm←⎕dm⍞000D⍞000D    ''''≡⍎do''''⍞000D1⍞000D    1≡{}do 1⍞000D1⍞000D    dm≡⎕dm      ⍝ above examples didn''t generate errors.⍞000D1' 

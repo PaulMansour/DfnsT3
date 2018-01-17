@@ -1,0 +1,1 @@
+'⍝ Widen ⍵ to type ⍺:⍞000D⍞000D      ⎕ml←0⍞000D⍞000D      {⊃(⎕dr ⍵)⎕wa}         1↓1e6,⍳10     ⍝ ⎕wa squeezes type.⍞000D83⍞000D      {⊃(⎕dr ⍵)⎕wa}163 type 1↓1e6,⍳10     ⍝ Type survives ⎕wa.⍞000D163' 

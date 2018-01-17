@@ -1,0 +1,1 @@
+'⍝ Random numbers with a normal distribution:⍞000D⍞000D    {+/⍵÷⍴⍵}¨NormRand¨10*⍳5             ⍝ average tends towards 0⍞000D¯0.1291955098 ¯0.02572138877 ¯0.02623988599 0.01176872844 0.0001537643082⍞000D⍞000D    {(+/⍵*2)÷⍴⍵}¨NormRand¨10*⍳5         ⍝ standard deviation tends towards 1⍞000D 0.5476621723  1.046579821  0.9897008187  0.987727489  1.004005834 ⍞000D' 

@@ -1,0 +1,1 @@
+'⍝ Apply operand function to native file tie:⍞000D⍞000D    fid←''Dfns Test Temp File''⍞000D⍞000D    {22:: ⋄ {}⍵ ⎕nerase ⍵ ⎕ntie 0} fid        ⍝ ensure file doesn''t exist.⍞000D⍞000D    _←⎕nuntie fid ⎕ncreate 0⍞000D⍞000D    ⎕nsize file fid⍞000D0⍞000D    _←fid ⎕nerase fid ⎕ntie 0' 

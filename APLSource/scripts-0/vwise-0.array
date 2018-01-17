@@ -1,0 +1,1 @@
+'⍝ Variable-wise: apply ⍺⍺ to each var in space ⍵:⍞000D⍞000D    {}⎕ex''Alpha''                ⍝ global var set by test function.⍞000D    {}⎕ex⍪⎕a                    ⍝ free up names A..Z⍞000D    A←⎕io⊃⎕a{⍎⍺,''←⍵''}¨⍳⍴⎕a      ⍝ 26 vars.⍞000D    (⍳⍴⎕a)≡+vwise ⎕this         ⍝ value of each var in space.⍞000D1' 

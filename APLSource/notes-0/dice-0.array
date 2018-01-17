@@ -1,0 +1,1 @@
+'cvec← ##.dice ?6 6                          ⍝ Interpret a throw of dice.⍞000D⍞000DAn illustration of the versatility of the guard construct.⍞000D⍞000DExample:⍞000D⍞000D      dice?6 6⍞000DSeven⍞000D⍞000DIndex:guard|diversions' 

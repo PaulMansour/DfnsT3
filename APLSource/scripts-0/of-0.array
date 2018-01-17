@@ -1,0 +1,1 @@
+'⍝ Pick of F of G of H ... arg:⍞000D⍞000D      ⎕io←1⍞000D⍞000D      1 of + of - of × of ÷ 10      ⍝ +10⍞000D10⍞000D      2 of + of - of × of ÷ 10      ⍝ -10⍞000D¯10⍞000D      3 of + of - of × of ÷ 10      ⍝ ×10⍞000D1⍞000D      4 of + of - of × of ÷ 10      ⍝ ÷10⍞000D0.1⍞000D      5 of + of - of × of ÷ 10      ⍝  10 (out of range index returns arg).⍞000D10' 

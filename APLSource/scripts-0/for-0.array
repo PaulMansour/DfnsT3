@@ -1,0 +1,1 @@
+'⍝ Multiple selection of function list:⍞000D⍞000D      embrace ← {''('',⍵,'')''} for {''['',⍵,'']''} for {''{'',⍵,''}''} for {''<'',⍵,''>''}⍞000D⍞000D      1 0 2 3 embrace ''this''⍞000D({{<<<this>>>}})' 

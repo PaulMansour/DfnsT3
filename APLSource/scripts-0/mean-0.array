@@ -1,0 +1,1 @@
+'⍝ Arithmetic mean:⍞000D⍞000D    mean 1 2 3 4⍞000D2.5⍞000D⍞000D    square←*∘2⍞000D    sqrt←*∘0.5⍞000D    stdev←{sqrt(mean square ⍵)-square mean ⍵}   ⍝ standard deviation.⍞000D⍞000D    ⎕pp←5⍞000D⍞000D    stdev 2 2 2⍞000D0⍞000D    stdev 1 2 3⍞000D0.8165' 
