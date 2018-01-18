@@ -1,5 +1,7 @@
- acc←{                                   ⍝ Accumulating reduction.
+﻿ acc←{                                   ⍝ Accumulating reduction.
      ⊃⍺⍺{(⊂⍺ ⍺⍺⊃⍬⍴⍵),⍵}/1↓{⍵,⊂⍬⍴⍵}¯1⌽⍵
- ⍝ THIS IS A CHAGNE!
+ ⍝ THIS IS A CHAGNE! DKFJDHFDSF!
  ⍝ THIS is another change!
+  THIS CHANGE IS DONE IN BUG 1 BRANCH 
+ 
  }
